@@ -29,5 +29,11 @@
                 "Encore\\Admin\\LogViewer\\LogViewerServiceProvider"
             ]
         }
+    },
+    "repositories": {
+        "encore/laravel-admin": {
+            "type": "vcs",
+            "url": "https://github.com/chanble/laravel-admin.git"
+        }
     }
 }
